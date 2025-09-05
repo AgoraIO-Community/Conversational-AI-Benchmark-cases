@@ -1,0 +1,75 @@
+﻿Sample Text,Expected Output
+This is http://example.com/page,This is HTTP colon slash slash example dot com slash page
+This is https://test.org/file.html,This is HTTPS colon slash slash test dot org slash file dot html
+This is ftp://data.net/folder/doc.pdf,This is FTP colon slash slash data dot net slash folder slash doc dot pdf
+This is http://site.co.uk/search?query=test,This is HTTP colon slash slash site dot co dot uk slash search question mark query equals test
+This is https://web.io:8080/path?x=1&y=2,This is HTTPS colon slash slash web dot io colon eight zero eight zero slash path question mark x equals one ampersand y equals two
+This is See pp. 1-10 for details,This is see pages one to ten for details
+This is Refer to pp. 11-20 for details,This is referred to pages eleven to twenty for details
+This is Check pp. 21-30 for details,This is check pages twenty one to thirty for details
+This is Review pp. 41-50 for details,This is review pages forty one to fifty for details
+This is Trends (Image 9-10) reveal,This is Trends Image nine to ten reveal
+This is Values (Photo 11-12) demonstrate,This is Values Photo eleven to twelve demonstrate
+This is Metrics (Snapshot 13-14) prove,This is Metrics Snapshot thirteen to fourteen prove
+This is 101-110 numbers,This is one hundred one to one hundred ten numbers
+This is 111-120 counts,This is one hundred eleven to one hundred twenty counts
+This is 121-130 figures,This is one hundred twenty one to one hundred thirty figures
+This is 131-140 amounts,This is one hundred thirty one to one hundred forty amounts
+This is Definition: Explanatory statement,This is Definition Explanatory statement
+This is Opinion: Personal view,This is Opinion Personal view
+This is View: Perspective held,This is View Perspective held
+"This is ""Distributed Computing"" field",This is Distributed Computing field
+"This is ""High-Performance Computing"" area",This is High Performance Computing area
+This is Frequency: 10~1000kHz,This is Frequency ten to one thousand kilohertz
+This is Wavelength: 100~1000μm,This is Wavelength one hundred to one thousand micrometers
+This is ∠A = ∠B,This is angle A equals angle B
+This is Pay $10 or €8,This is Pay ten dollars or eight euros
+This is Pay $20 or €16,This is Pay twenty dollars or sixteen euros
+This is Task 1→Task 2→Task 3,This is Task one Task two Task three
+This is Process X→Process Y→Process Z,This is Process X Process Y Process Z
+This is Start→Run→Stop,This is Start Run Stop
+Update @2024,Update two thousand twenty four
+Task1: Finish report @3pm,Task one Finish report three pm
+I want to @Tom,I want to at Tom
+Follow @BrandElectronics on Instagram,Follow at Brand Electronics on Instagram
+I want to Refer to §1.1,I want to referred to section one point one
+I want to Check §1.2.3,I want to check section one point two point three
+This file name is document.txt,This file name is document dot txt
+This file name is image.jpg,This file name is image dot jpg
+This file name is archive.zip,This file name is archive dot zip
+Now is 08:30,Now  is eight thirty
+Now is 10:15,Now is ten fifteen
+Now is 12:45,Now is twelve forty five
+Now is 14:20,Now is fourteen twenty
+Now is 16:50,Now is sixteen fifty
+Results (Table 2),Results Table two
+See (Chapter 5.1),See Chapter five point one
+Value (max=100),Value max equals one hundred
+You know this is either he/she,You know this is either he or she
+The letter is A-Z,The letter is A to Z
+pages 5-8 of this book,pages five to eight of this book
+In between 1990-2000,In between nineteen ninety and two thousand
+I have 10-20 items,I have ten to twenty items
+About 30-40%,About thirty to forty percent
+About 100-150,About one hundred to one hundred fifty
+About Monday-Friday,About Monday to Friday
+This is https://,The is https colon slash slash
+Read 'hashtag' for the # here,Read hashtag for the hashtag here
+This is Level: High,This is Level high
+This is Chapter 3: Results,This is Chapter three Results
+This is To: All users,This is To All users
+This is From: Admin,This is From Admin
+This is 'World',This is World
+"This is ""AI"" technology",This is AI technology
+This is 'Big Data',This is Big Data
+"This is ""Ctrl+C""",This is Control C
+This is Function f(x) = y,This is Function f of x equals y
+This is Value (max=100 (default)),This is Value max equals one hundred default
+My email is alice@company.com,My email is alice at company dot com
+This is Procter & Gamble,This is Procter and Gamble
+This is Dolce & Gabbana,This is Dolce and Gabbana
+"This is Route ""/api/v1""",This is Route slash api slash v one
+"This is Flag ""--help"" shown",This is Flag help shown
+"This is Password ""P@55"" ",This is Password P at five five
+Calculate the total with ∑,Calculate the total with sum sigma
+You can choose tea/coffee,You can choose tea or coffee

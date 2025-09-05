@@ -1,0 +1,51 @@
+﻿Sample Text,Expected Output
+This is /usr/local/bin/python3,This is slash usr slash local slash bin slash python three
+This is ./build/output/app-debug.apk,This is dot slash build slash output slash app dash debug dot apk
+This is Weight 5 kg & $25,This is Weight five kilograms and twenty five dollars
+This is Temperature 0 °C (32 °F),This is Temperature zero degrees Celsius thirty two degrees Fahrenheit
+This is Fuel 50 L (13.2 gal),This is Fuel fifty liters thirteen point two gallons
+This is Altitude 3000 m (9000 ft) 28°C,This is Altitude three thousand meters nine thousand feet twenty eight degrees Celsius
+This is Pressure 1013 hPa (29.92),This is Pressure one thousand thirteen hectopascals twenty nine point nine two
+This is H₂O₂ (Hydrogen Peroxide),This is H two O two hydrogen peroxide
+This is CO₂ (Carbon Dioxide),This is CO two carbon dioxide
+This is NH₃ (Ammonia),This is NH three ammonia
+This is NaCl (Sodium Chloride),This is NaCl sodium chloride
+This is C₆H₁₂O₆ (Glucose),This is C six H twelve O six glucose
+This is e ≈ 2.71828,This is e approximately two point seven one eight two eight
+This is Nike Air vs Adidas Boost,This is Nike Air versus Adidas Boost
+This is Coca-Cola vs Pepsi,This is Coca Cola versus Pepsi
+This is Tesla Model 3 vs BMW i4,This is Tesla Model three versus BMW i four
+This is 9/64 inch bit,This is nine sixty fourths inch bit
+This is 11/32 inch socket,This is eleven thirty seconds inch socket
+This is 13/16 inch spanner,This is thirteen sixteenths inch spanner
+This is Account 87654321,This is Account eight seven six five four three two one
+This is CHIPS 0003,This is CHIPS zero zero zero three
+This is Account 12312312,This is Account one two three one two three one two
+This is F = ma,This is F equals ma
+This is E = h,This is E equals h
+This is a² + b² = c²,This is a squared plus b squared equals c squared
+This is Annex VI Table 3,This is Annex six Table three
+This is Part II Subpart J,This is Part two Subpart J
+This is Title 18 U.S.C,This is Title Eighteen USC
+This is Twitter @Smith,This is Twitter at Smith
+This is QQ 123456789,This is QQ one two three four five six seven eight nine
+This is H₂O is water,This is H two O is water
+This is CO₂ is carbon dioxide,This is CO two is carbon dioxide
+The event runs 9-11 AM,The event runs nine to eleven AM
+The solution set is ∅.,The solution set is the empty set
+The island is MnO₂ (Manganese Dioxide),The island is MnO two manganese dioxide
+She has one hobby — painting,She has one hobby painting
+The island is Current speed: 1 m/s,The island is Current speed one meter per second
+The island is Resolution: 1 μm,The island is Resolution one micrometer
+The equation is x² + 3y = 10,The equation is x squared plus three y equals ten
+The solution has a pH of 7,The solution has a pee aych of seven
+The file is saved as report_v1.pdf,The file is saved as report v one pdf
+The code uses a boolean value: true/false,The code uses a boolean value true or false
+The reference is from DOI: 10/nature12345,The reference is from DOI ten nature one two three four five
+"The study was published in 2023 (Smith et al., 2023)",The study was published in twenty twenty three Smith et al twenty twenty three
+This resistor is 10Ω,This resistor is ten Ohms
+"The code runs print(""Hello World"")",The code runs print Hello World
+The patient has hypertension,The patient has hypertension
+"The sentence is ""She runs fast.""",The sentence is She runs fast
+I know: 2+3=5,I know Two plus three equals five
+I know: v=s/t,I know v equals s divided by t
